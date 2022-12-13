@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *assigns a random number to the variable n each time it is executed.
- *Return 0 (Always success)
+ *main - assigns a random number to the variable n each time it is executed.
+ *Return: (0) (Always success)
  */
 int main(void)
 {
